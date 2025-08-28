@@ -8,12 +8,12 @@ const show_sentence = document.querySelector('#showSentence');
 let startTime, endTime, totalTimeTaken;
 
 
-const sentences = ["The sun rises in the east and sets in the west...",
-  "Typing is a skill that grows with practice...",
-  "Computers have become a part of daily life...",
-  "The internet connects people across the globe...",
-  "Success in typing is not about rushing...",
-  "Imagine a world without typing..."]
+const sentences = ['The sun rises in the east and sets in the west',
+  'Typing is a skill that grows with practice',
+  'Computers have become a part of daily life',
+  'The internet connects people across the globe',
+  'Success in typing is not about rushing',
+  'Imagine a world without typing']
 
 // step 5
 
