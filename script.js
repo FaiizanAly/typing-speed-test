@@ -8,9 +8,9 @@ const show_sentence = document.querySelector('#showSentence');
 let startTime, endTime, totalTimeTaken;
 
 
-const sentences = ['The quick brown fox jumps over the lazy dog 1',
-    'The quick brown fox jumps over the lazy dog 2',
-    'The quick brown fox jumps over the lazy dog 3 ']
+const sentences = ['In the grand scheme of things, a good cup of coffee can make all the difference. It provides the energy and focus needed to tackle a busy day, and the aroma alone can be a source of comfort. Whether it’s a simple black coffee, a frothy latte, or a cold brew, the ritual of preparing and enjoying it is a moment of peace in a hectic world.',
+    'The history of the internet is a fascinating journey from a military research project to a global communication network. Initially conceived as ARPANET, it was designed to ensure communication continuity in the event of a national emergency. Today, it has evolved into an indispensable tool for education, commerce, and social interaction, connecting billions of people across the globe.',
+    'Artificial intelligence is rapidly transforming various industries, from healthcare to finance. Machine learning algorithms, a subset of AI, enable computers to learn from data without being explicitly programmed. This technology is being used to predict market trends, diagnose diseases more accurately, and even create realistic works of art, pushing the boundaries of what computers can do.']
 
 // step 5
 
